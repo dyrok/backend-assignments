@@ -1,0 +1,23 @@
+[
+  {
+    "studentName": "Rahul Sharma",
+    "collegeId": "COL-101",
+    "vehicleNumber": "MH-01-AB-1234",
+    "vehicleType": "Bike",
+    "registrationDate": "2026-09-23"
+  },
+  {
+    "studentName": "Priya Patel",
+    "collegeId": "COL-102",
+    "vehicleNumber": "MH-02-CD-5678",
+    "vehicleType": "Scooter",
+    "registrationDate": "2026-09-23"
+  },
+  {
+    "studentName": "Amit Verma",
+    "collegeId": "COL-103",
+    "vehicleNumber": "MH-04-EF-9012",
+    "vehicleType": "Car",
+    "registrationDate": "2026-09-23"
+  }
+]

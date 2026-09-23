@@ -1,0 +1,14 @@
+[
+  {
+    "studentName": "Rohan Joshi",
+    "rollNo": "101",
+    "course": "Computer Science",
+    "registeredAt": "2026-09-23T15:32:25.222Z"
+  },
+  {
+    "studentName": "Ananya Sen",
+    "rollNo": "102",
+    "course": "Information Technology",
+    "registeredAt": "2026-09-23T15:32:25.234Z"
+  }
+]

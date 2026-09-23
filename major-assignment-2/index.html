@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Major Assignment 2 - E-Commerce Product Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>E-Commerce Product Card</h1>
+
+  <!-- Product Card Component -->
+  <div class="product-card" id="product-card">
+    <div class="image-container">
+      <img src="product.jpg" alt="Wireless Noise Canceling Headphones" id="product-image">
+    </div>
+    
+    <div class="product-details">
+      <span class="badge">Best Seller</span>
+      <h2 class="product-title">Wireless Studio Headphones</h2>
+      <div class="product-price">₹4,999</div>
+      <p class="product-desc">
+        Premium over-ear wireless headphones with active noise cancellation, deep bass, and up to 30 hours of playback.
+      </p>
+    </div>
+
+    <!-- Action Buttons -->
+    <div class="action-buttons">
+      <button id="add-to-cart-btn" class="btn btn-primary">Add to Cart</button>
+      <button id="wishlist-btn" class="btn btn-secondary">Wishlist</button>
+      <a href="#" id="delete-btn" class="btn btn-danger">Delete</a>
+    </div>
+  </div>
+
+  <!-- On-Screen Console Output Display (for easy visual verification) -->
+  <div class="log-container">
+    <div class="log-title">Live Activity Log (Open Console for Objects)</div>
+    <div class="log-output" id="log-output">
+      <div class="log-entry">> Ready! Interact with the card and buttons above.</div>
+    </div>
+  </div>
+
+  <!-- Modular Scripts -->
+  <script src="handlers.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
