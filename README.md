@@ -16,3 +16,4 @@ College backend Node.js and JavaScript assignments repository.
 - **Assignment 11**: Student registration HTTP server with JSON file appending (`assignment11.js`, `students.json`)
 - **Major Assignment 1**: RailConnect Live Ops Dashboard for Train 12951 (`major-assignment-1/`)
 - **Major Assignment 2**: Interactive E-Commerce Product Card with DOM events (`major-assignment-2/`)
+- **Major Assignment 3**: User Registration & Authentication API using Express.js (`major-assignment-3/`)
